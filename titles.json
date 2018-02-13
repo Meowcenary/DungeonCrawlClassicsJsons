@@ -60,64 +60,64 @@
         "thief": "boss"
     },
     "11": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "capricious",
+        "cleric": "bishop",
+        "warrior": "bodyguard",
+        "thief": "bounty hunter"
     },
     "12": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "chamberlain",
+        "cleric": "blackcoat",
+        "warrior": "brave",
+        "thief": "bravo"
     },
     "13": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "charmer",
+        "cleric": "blackguard",
+        "warrior": "brawler",
+        "thief": "bully"
     },
     "14": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "chronicler",
+        "cleric": "brother",
+        "warrior": "brigand",
+        "thief": "burgular"
     },
     "15": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "clairvoyant",
+        "cleric": "cabalist",
+        "warrior": "bruiser",
+        "thief": "capo"
     },
     "16": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "collector",
+        "cleric": "caller",
+        "warrior": "brute",
+        "thief": "card shark"
     },
     "17": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "conjurer",
+        "cleric": "cardinal",
+        "warrior": "bushwhacker",
+        "thief": "charlatan"
     },
     "18": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "controller",
+        "cleric": "celibate",
+        "warrior": "cadet",
+        "thief": "cheat"
     },
     "19": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "cryomancer",
+        "cleric": "chaplain",
+        "warrior": "campaigner",
+        "thief": "clockworker"
     },
     "20": {
-        "wizard": "",
-        "cleric": "",
-        "warrior": "",
-        "thief": ""
+        "wizard": "cultist",
+        "cleric": "cleric",
+        "warrior": "captain",
+        "thief": "con man"
     },
     "21": {
         "wizard": "",
