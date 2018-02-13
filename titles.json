@@ -1,0 +1,602 @@
+{
+    "1": {
+        "wizard": "abjurer",
+        "cleric": "[creature]-binder/keeper*",
+        "warrior": "amazon",
+        "thief": "apprentice"
+    },
+    "2": {
+        "wizard": "adept",
+        "cleric": "abbey",
+        "warrior": "archer",
+        "thief": "arch-rogue"
+    },
+    "3": {
+        "wizard": "apparitionist",
+        "cleric": "acolyte",
+        "warrior": "armigerent",
+        "thief": "artisan"
+    },
+    "4": {
+        "wizard": "archveult",
+        "cleric": "advocate",
+        "warrior": "artillerest",
+        "thief": "assassin"
+    },
+    "5": {
+        "wizard": "astrologis",
+        "cleric": "alienist",
+        "warrior": "athlete",
+        "thief": "balladeer"
+    },
+    "6": {
+        "wizard": "astrologue",
+        "cleric": "apostle",
+        "warrior": "bandit",
+        "thief": "bad"
+    },
+    "7": {
+        "wizard": "augurer",
+        "cleric": "ascetic",
+        "warrior": "barbarian",
+        "thief": "beggar"
+    },
+    "8": {
+        "wizard": "baleful",
+        "cleric": "aspirant",
+        "warrior": "battler",
+        "thief": "bilker"
+    },
+    "9": {
+        "wizard": "beguiler",
+        "cleric": "astrologue",
+        "warrior": "berserker",
+        "thief": "body snatcher"
+    },
+    "10": {
+        "wizard": "bonder",
+        "cleric": "beatific",
+        "warrior": "bludgeoner",
+        "thief": "boss"
+    },
+    "11": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "12": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "13": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "14": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "15": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "16": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "17": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "18": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "19": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "20": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "21": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "22": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "23": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "24": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "25": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "26": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "27": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "28": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "29": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "30": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "31": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "32": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "33": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "34": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "35": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "36": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "37": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "38": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "39": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "40": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "41": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "42": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "43": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "44": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "45": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "46": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "47": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "48": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "49": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "50": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "51": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "52": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "53": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "54": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "55": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "56": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "57": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "58": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "59": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "60": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "61": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "62": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "63": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "64": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "65": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "66": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "67": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "68": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "69": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "70": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "71": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "72": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "73": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "74": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "75": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "76": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "77": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "78": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "79": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "80": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "81": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "82": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "83": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "84": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "85": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "86": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "87": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "88": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "89": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "90": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "91": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "92": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "93": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "94": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "95": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "96": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "97": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "98": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "99": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    },
+    "100": {
+        "wizard": "",
+        "cleric": "",
+        "warrior": "",
+        "thief": ""
+    }
+}
